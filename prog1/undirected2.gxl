@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ch.unibe.iam.graph.io.GxlWriter, 2004-10-31 19:07:15 -->
+<!DOCTYPE gxl SYSTEM "gxl1.0.dtd">
+<gxl>
+<graph id="default_id" edgemode="undirected">
+<node id="_1">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>88.0</float>
+</attr>
+<attr name="x">
+<float>173.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_3">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>189.0</float>
+</attr>
+<attr name="x">
+<float>148.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_2">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>148.0</float>
+</attr>
+<attr name="x">
+<float>113.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_8">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>171.0</float>
+</attr>
+<attr name="x">
+<float>270.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_7">
+<attr name="isGoal">
+<bool>true</bool>
+</attr>
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>266.0</float>
+</attr>
+<attr name="x">
+<float>253.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_9">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>72.0</float>
+</attr>
+<attr name="x">
+<float>314.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_6">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>232.0</float>
+</attr>
+<attr name="x">
+<float>349.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_4">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>112.0</float>
+</attr>
+<attr name="x">
+<float>212.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_5">
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>115.0</float>
+</attr>
+<attr name="x">
+<float>392.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<node id="_0">
+<attr name="isStart">
+<bool>true</bool>
+</attr>
+<attr name="radius">
+<float>10.0</float>
+</attr>
+<attr name="color">
+<int>-65536</int>
+</attr>
+<attr name="y">
+<float>33.0</float>
+</attr>
+<attr name="x">
+<float>209.0</float>
+</attr>
+<attr name="layer">
+<int>-1</int>
+</attr>
+</node>
+<edge id="_16" from="_0" to="_9">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_18" from="_5" to="_6">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_17" from="_9" to="_5">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_19" from="_6" to="_8">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_15" from="_4" to="_8">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_14" from="_0" to="_4">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_12" from="_1" to="_2">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_13" from="_2" to="_3">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_11" from="_4" to="_1">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+<edge id="_10" from="_8" to="_7">
+<attr name="layer">
+<int>-1</int>
+</attr>
+</edge>
+</graph>
+</gxl>
